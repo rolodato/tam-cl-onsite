@@ -1,0 +1,32 @@
+.
+├── README.md
+├── dir1
+│   ├── child-dir11
+│   │   ├── child-dir111
+│   │   └── child-dir112
+│   │       ├── file1121
+│   │       ├── file1122
+│   │       └── file1123
+│   ├── file11
+│   ├── file12
+│   └── file13
+├── dir2
+│   └── file21
+├── dir3
+│   ├── child-dir31
+│   ├── child-dir32
+│   ├── file31
+│   └── file32
+├── dir4
+│   └── file41
+├── dir5
+│   └── file51
+├── file1
+├── file2
+├── file3
+├── file4
+├── file5
+├── file6
+└── tree
+
+10 directories, 19 files
